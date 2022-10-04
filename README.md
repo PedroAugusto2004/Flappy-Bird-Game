@@ -1,4 +1,5 @@
 # Flappy Bird
+[Clique aqui para jogar](https://pedroaugusto2004.github.io/FB-Jogo/)
 
 
 
