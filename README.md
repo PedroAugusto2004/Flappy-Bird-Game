@@ -1,5 +1,5 @@
 # Flappy Bird
-[Click Here to get access](https://pedroaugusto2004.github.io/FB-Jogo/)
+[Click Here to get access](https://pedroaugusto2004.github.io/Flappy-Bird-Game/)
 
 
 
